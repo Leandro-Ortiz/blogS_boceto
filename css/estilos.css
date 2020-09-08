@@ -43,14 +43,8 @@ ul{
 footer{
     color: white;
     padding: 10px;
-    background-color: grey;
+    background-color: navy;
     font-style: normal;
     box-shadow: 0px 0px 10px  yellow;
     border-radius: 10px;
-}
-
-a{
-   padding-right: 10px; 
-   text-decoration: none;
-   color: white;
 }
