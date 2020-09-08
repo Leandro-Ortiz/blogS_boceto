@@ -26,11 +26,11 @@ h2{
 h3{
     color: crimson;
 }
-.foo{
-    color: white;
+.fooo{
+    color: lightsalmon;
     padding: 10px;
-    background-color: navy;
+    background-color: gainsboro;
     font-style: normal;
-    box-shadow: 0px 0px 10px  yellow;
+    box-shadow: 0px 0px 10px  magenta;
     border-radius: 10px;
 }
