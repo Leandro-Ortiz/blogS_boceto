@@ -35,7 +35,6 @@ h2{
 h3{
     color:hotpink;
 }
-<<<<<<< HEAD
 .ull{
     margin: 0;
     list-style: none;
@@ -45,13 +44,4 @@ a{
    padding-right: 10px; 
    text-decoration: none;
    color: plum;
-=======
-.fooo{
-    color: lightsalmon;
-    padding: 10px;
-    background-color: gainsboro;
-    font-style: normal;
-    box-shadow: 0px 0px 10px  magenta;
-    border-radius: 10px;
->>>>>>> footer
 }
